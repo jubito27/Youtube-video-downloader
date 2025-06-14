@@ -1,5 +1,9 @@
 # Youtube-video-downloader
 This is a repository to create a app to download youtube video at highest quality absolutely free...
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://elloraai.streamlit.app/)
+
+
 1. Install the requirements
 
    ```
