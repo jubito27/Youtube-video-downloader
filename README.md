@@ -7,6 +7,7 @@ This is a repository to create a app to download youtube video at highest qualit
 1. Install the requirements
 
    ```
+   $ pip upgrade --upgrade pip 
    $ pip install -r requirements.txt
    
    ```
